@@ -1,1 +1,2 @@
 This is my first git repository
+This is my second update for the software project
